@@ -1,6 +1,6 @@
 # Hi, I'm Ojas 👋
 
-🎓 B.Tech CSE Student at Chandigarh University  
+ 
 💻 Aspiring Software Developer  
 🚀 Learning, Building & Exploring Technology
 
